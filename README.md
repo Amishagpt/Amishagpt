@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🚀 I'm currently working on:<br>Building high-performance web applications, optimizing UI responsiveness, and solving challenging DSA problems.  <br><br>🤝 I'm looking to collaborate on:<br>Web development projects, and problem-solving challenges in DSA.<br><br>🛠 I'm looking for help with:<br>System design, backend development, and best practices for scalable applications.  <br><br>📚 I'm currently learning:<br>Advanced React.js concepts, cloud technologies, and performance optimization.  <br><br>💡Ask me about:<br>Front-end development, React.js, data structures & algorithms, and interview preparation.<br><br>
+🚀 I'm currently working on:<br>Building high-performance web applications, and solving challenging DSA problems.  <br><br>🤝 I'm looking to collaborate on:<br>Web development projects, and problem-solving challenges in DSA.<br><br>🛠 I'm looking for help with:<br>System design, backend development, and best practices for scalable applications.  <br><br>📚 I'm currently learning:<br>Advanced React.js concepts, cloud technologies, and performance optimization.  <br><br>💡Ask me about:<br>Front-end development, React.js, data structures & algorithms, and interview preparation.<br><br>
 
 
 ## 🌐 Socials:
